@@ -1,4 +1,4 @@
-package BaiLamKiemTra.Phan_4;
+package BaiLamKiemTra.phan1.Phan_1.Phan_4;
 
 import java.util.*;
 

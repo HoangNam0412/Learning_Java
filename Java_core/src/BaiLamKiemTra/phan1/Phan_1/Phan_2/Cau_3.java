@@ -1,4 +1,4 @@
-package BaiLamKiemTra.Phan_2;
+package BaiLamKiemTra.phan1.Phan_1.Phan_2;
 
 import java.util.Scanner;
 
